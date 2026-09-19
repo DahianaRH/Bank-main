@@ -64,11 +64,7 @@ Luego ejecutar el proyecto:
 npm run dev
 ```
 
-La aplicación estará disponible en la dirección que indique Vite, normalmente:
-
-```text
-http://localhost:5173
-```
+La aplicación estará disponible en la dirección que indique Vite
 
 Para que todas las funcionalidades funcionen correctamente, el **backend debe estar ejecutándose previamente**.
 
